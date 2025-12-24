@@ -10,7 +10,7 @@ A lightweight IOC enrichment and visualization dashboard for SOC analysts. Inges
 ## Screenshots
 
 ### IOC Enrichment Dashboard
-![IOC Enrichment Dashboard](images/dashboard-overview.png)
+![IOC Enrichment Dashboard](images/imagesdashboard.png)
 
 ### IP Reputation Dashboard
 ![IP Reputation Dashboard](images/ip-reputation-dashboard.png)
