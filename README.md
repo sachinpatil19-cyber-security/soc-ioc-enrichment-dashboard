@@ -7,6 +7,21 @@ IOC enrichment dashboard for SOC — ingest, enrich, and visualize indicators of
 ## Overview
 A lightweight IOC enrichment and visualization dashboard for SOC analysts. Ingests indicator feeds, enriches them with external sources (e.g., AbuseIPDB), stores results, and provides an interactive web UI for triage and investigation.
 
+## Screenshots
+
+### SOC IOC Enrichment Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Event Detail & IOC Enrichment
+![Event Detail](images/Sample 1 Preview.png)
+
+### IP Reputation Dashboard
+![IP Reputation](screenshots/ip-reputation.png)
+
+### Auto-Tagging & SOAR Logic
+![Auto Tagging](screenshots/auto-tagging.png)
+
+
 ## Key features
 - Ingest IOC data from files or streams (JSONL sample included)
 - Enrich IPs/URLs with external lookups and local exporters
