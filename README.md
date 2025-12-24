@@ -1,4 +1,4 @@
-﻿# soc-ioc-enrichment-dashboard
+# soc-ioc-enrichment-dashboard
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
@@ -10,16 +10,17 @@ A lightweight IOC enrichment and visualization dashboard for SOC analysts. Inges
 ## Screenshots
 
 ### IOC Enrichment Dashboard
-![Dashboard](soc-ioc-enrichment-dashboard/dashboard-overview.png)
+![IOC Enrichment Dashboard](images/dashboard-overview.png)
 
 ### IP Reputation Dashboard
-![IP Reputation](images/ip-reputation-dashboard.png)
+![IP Reputation Dashboard](images/ip-reputation-dashboard.png)
 
 ### Auto-Tagging & SOAR Logic
-![Auto Tagging](images/auto-tagging-settings.png)
+![Auto-Tagging & SOAR Logic](images/auto-tagging-settings.png)
 
 ### Application Settings (Streamlit)
-![Settings](images/streamlit-settings-ui.png)
+![Application Settings](images/streamlit-settings-ui.png)
+
 
 
 
