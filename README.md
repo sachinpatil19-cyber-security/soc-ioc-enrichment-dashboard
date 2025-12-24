@@ -9,17 +9,18 @@ A lightweight IOC enrichment and visualization dashboard for SOC analysts. Inges
 
 ## Screenshots
 
-### SOC IOC Enrichment Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Event Detail & IOC Enrichment
-![Event Detail](images/Sample 1 Preview.png)
+### IOC Enrichment Dashboard
+![Dashboard](images/dashboard-overview.png)
 
 ### IP Reputation Dashboard
-![IP Reputation](screenshots/ip-reputation.png)
+![IP Reputation](images/ip-reputation-dashboard.png)
 
 ### Auto-Tagging & SOAR Logic
-![Auto Tagging](screenshots/auto-tagging.png)
+![Auto Tagging](images/auto-tagging-settings.png)
+
+### Application Settings (Streamlit)
+![Settings](images/streamlit-settings-ui.png)
+
 
 
 ## Key features
